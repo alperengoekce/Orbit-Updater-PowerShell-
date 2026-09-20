@@ -95,3 +95,10 @@ Double-click **Uninstall.cmd**. Uninstall removes both Scheduled Tasks, current 
 - Windows PowerShell 5.1
 - Microsoft App Installer / `winget.exe`
 - Administrator approval for one-time setup, repair, and uninstall
+
+## License
+
+Copyright © 2026 Alperen Gökce. All rights reserved.
+
+This repository is provided for portfolio and demonstration purposes.
+No permission is granted to copy, modify, distribute, or reuse the source code.
